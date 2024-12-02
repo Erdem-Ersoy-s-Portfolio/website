@@ -15,8 +15,8 @@ let isGameOver = false;
 let ballSpeedIncrease = 0.5;
 let paddleSpeed = 6;
 let computerPaddleSpeed = 4;
-let paddleColor = 'white';
-let ballColor = 'white';
+let paddleColor = 'red';
+let ballColor = 'yellow';
 
 // Power-up variables
 let powerUpActive = false;
